@@ -3,3 +3,5 @@ dist/
 outputs/
 tables/
 coverage/
+test-destination/
+custom-destination/
